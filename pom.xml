@@ -92,6 +92,7 @@
 	</dependencies>
 
 	<build>
+	        <finalName>rsa_probe_lat</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
